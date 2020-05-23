@@ -1,4 +1,10 @@
-# Jamstack
+# Pamstack
+
+I'm going to take the template from the Jamstack web site, replace it with the word Pam instead of Jam, and update it to be powered by Laravel Jigsaw on top of some interesting APIs.
+
+Probably.
+
+---
 
 This is the small start of something. The Jamstack homepage with a few lines about the concepts and the philosophy.
 
